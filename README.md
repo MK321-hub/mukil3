@@ -20,11 +20,11 @@
 
   <h2>Ken Carson: The Rising Star</h2>
   <img src="https://cdn.printerval.com/unsafe/960x960/asset.prtvstatic.com/2023/05/25/646e598f153645.91154490.jpg" alt="Ken Carson">
-  <p>Ken Carson has emereged as one of the standout artists from Opium, gaining popularity with his high-energy performances and dynamic tracks. His debut album <strong>Project X</strong> had intrigued fans but his newest album A Great Choas has truly transformed his career, shooting him up the popularity ladder. Carson brings a raw energy that aligns perfectly with the Opium aesthetic and engages all his listerners..</p>
+  <p>Ken Carson has emereged as one of the standout artists from Opium, gaining popularity with his high-energy performances and dynamic tracks. His debut album <strong>Project X</strong> had intrigued fans but his newest album <strong>A Great Choas</strong> has truly transformed his career, shooting him up the popularity ladder. Carson brings a raw energy that aligns perfectly with the Opium aesthetic and engages all his listerners..</p>
 
   <h2>Destroy Lonely: The Prince</h2>
     <img src="https://cdn.printerval.com/unsafe/960x960/asset.prtvstatic.com/2023/04/24/644607268bce22.05618599.jpg" alt="Destroy Lonely">
-  <p>Destroy Lonely adds a unique take to the Opium roster and is also rising up. His futuristic, ambient beats mixed with introspective lyrics create a sound that feels ahead of its time. His influence is growing, and he's gaining recognition for tracks that blend traditional rap with production that is truly mezmerising.</p>
+  <p>Destroy Lonely adds a unique take to the Opium roster and is also rising up. His futuristic, ambient beats mixed with unqiue lyrics create a sound that feels ahead of its time and almost psychedelic sorts. His influence is growing, and he's gaining recognition for tracks that blend traditional rap with production that is truly mezmerising.</p>
 
 
   </body>
