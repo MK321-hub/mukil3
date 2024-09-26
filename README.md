@@ -23,7 +23,7 @@
   <p>Ken Carson is one of the standout artists from Opium, making waves with his high-energy performances and dynamic tracks. His debut album <strong>Project X</strong> has solidified his place as a key figure in the new wave of trap music. Carson brings a raw energy that aligns perfectly with the Opium aesthetic.</p>
 
   <h2>Destroy Lonely: The Prince</h2>
-    img src="=https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1c8e6202-1229-4661-890e-6f3528b0df6d/dfc9ly0-f28911db-da81-4842-b3c0-cd8cb87e736c.jpg/v1/fill/w_894,h_894,q_70,strp/destroy_lonely___no_stylist__by_digisoulgfx_dfc9ly0-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzAwMCIsInBhdGgiOiJcL2ZcLzFjOGU2MjAyLTEyMjktNDY2MS04OTBlLTZmMzUyOGIwZGY2ZFwvZGZjOWx5MC1mMjg5MTFkYi1kYTgxLTQ4NDItYjNjMC1jZDhjYjg3ZTczNmMuanBnIiwid2lkdGgiOiI8PTMwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.pTOryEUrZiiKa5SA4a78EffXzgSb1VLqACQv2b6uwIA" alt="Destroy Lonely">
+    <img src="https://cdn.printerval.com/unsafe/960x960/asset.prtvstatic.com/2023/04/24/644607268bce22.05618599.jpg" alt="Destroy Lonely">
   <p>Destroy Lonely adds a unique flavor to the Opium roster. His futuristic, ambient beats mixed with introspective lyrics create a sound that feels ahead of its time. His influence is growing, and he's gaining recognition for tracks that blend traditional rap with avant-garde production.</p>
 
 
